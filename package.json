@@ -1,0 +1,6 @@
+{
+  "name": "iqbal-online-quran-academy",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
